@@ -45,3 +45,11 @@ document.getElementById('roll').onclick = function () {
   document.getElementById('C').innerHTML = upper
 }
 ```
+
+# HTML
+```html
+  <label id="A">A</label>
+    <label id="B">B</label>
+    <label id="C">C</label><br><br>
+    <button type="button" id="roll">Roll</button>
+```
