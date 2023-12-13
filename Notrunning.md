@@ -19,3 +19,4 @@ document.getElementById('roll').onclick = function () {
   }
 }
 ```
+'&#128078;' Can only render in HTML dynamically.  <h1>&#128078;</h1>
