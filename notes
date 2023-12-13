@@ -1,0 +1,37 @@
+Thursday Dec 7
+Senators 3
+Maple Leafs 4
+
+
+Sat Dec 9
+Predators 0
+Maple Leafs 4
+
+Sunday Dec 10
+Maple Leafs 3
+Islanders 4
+
+const teams() =>{
+   "Maple Leafs",
+   "Predators",
+   "Islanders",
+   "Senators",
+   "Karen",
+   "Bruins",
+   "🥘 Panthers",
+}
+
+
+teams.map(team => <li>{team}</li>)
+
+function outCome(){
+   return 
+}
+
+
+const final() => {
+  let senators = 3
+  let Maple leaf = 4
+}
+
+
