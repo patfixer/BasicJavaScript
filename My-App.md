@@ -1,12 +1,12 @@
 # Keep In Mind You Using JSX Typescript 
-JSX dose not use for loops which makes scene is why I find 
-the syntax wired or different 
+JSX uses for loops with other method which makes scene is why I find 
+the syntax different 
 
 `{}` The curly braces renders dynamic context
 
-`terms.map(term => <li>{term}</li>)` Converting 
+`terms.map(term => <li>{term}</li>)` Converting list is looping throught the array of elements  
 
-`<Fragment>` -More than one html tap <h1> <label> 
+`<Fragment>` With this Fragment you can have more than one HTML tag <h1> <label> 
 # ListGroup
 ```js
 import { Fragment } from "react"
@@ -48,7 +48,8 @@ function App() {
 export default App
 ```
 
-`let list = terms.map(term => <li>{term}</li>)` 
+# Mapping like for each loop 
+`{terms.map(term => <li>{term}</li>)}`  
 ```js
 import { Fragment } from "react"
 
