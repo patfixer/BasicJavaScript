@@ -1,5 +1,6 @@
 
-# IF Statements
+# IF Statement
+Remember This Is Not JSX
 Short way to right an if statement
 ```js
 
