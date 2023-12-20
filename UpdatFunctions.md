@@ -1,3 +1,4 @@
+### with JSX
 # Updater function:
 A function passed as an argument to set an object to setState() sometimes it think
 that the state is not updated immediately, so we use this updater function. Asynchronous
