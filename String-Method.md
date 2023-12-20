@@ -1,4 +1,4 @@
-## Without JSX 
+### Without JSX 
 # String Methods
 I do like using string methods 
 
