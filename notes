@@ -1,8 +1,6 @@
-Maple Leafs 5
-Bluejacket 6
-
-
-Penguins 0
-Maple Leafs 2
+```js
+let yourName ="chicken head"
+console.log(yourName)
+```
 
 
